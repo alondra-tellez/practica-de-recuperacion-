@@ -1,4 +1,14 @@
-# Práctica: Interfaz LLM · LogiSmart
+# Práctica: Interfaz LLM · LogiSmart (versión 2)
+
+Misma funcionalidad que la versión original, con otra apariencia:
+
+- tema oscuro tipo «sala de control» definido en `.streamlit/config.toml`;
+- navegación con pastillas en la parte superior en lugar del menú lateral;
+- tarjetas de indicadores, semáforo de tres luces y tipografías Space Grotesk e IBM Plex;
+- gráficas nuevas: flujo diario en área, mapa semanal de incidentes, matriz de riesgo por bandas y gráfica de reducción inherente → residual;
+- el tutor tiene el chat a la izquierda y el panel de historial y resumen a la derecha.
+
+Usa la misma base de datos MongoDB que la versión original.
 
 Dos entregas en un mismo repositorio:
 
