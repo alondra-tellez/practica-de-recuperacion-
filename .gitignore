@@ -1,0 +1,12 @@
+# Credenciales: NUNCA subir el .env al repositorio
+.env
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.streamlit/secrets.toml
+
+# Reportes generados (se conservan los del experimento como evidencia)
+reportes/*.pdf
+reportes/*.csv
